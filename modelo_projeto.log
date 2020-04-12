@@ -1,0 +1,1036 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.9)  12 APR 2020 16:12
+entering extended mode
+**./modelo_projeto.tex
+(modelo_projeto.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrart
+cl.cls"
+Document Class: scrartcl 2020/01/24 v3.29 KOMA-Script document class (article)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrkba
+se.sty"
+Package: scrkbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbas
+e.sty"
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
+le.sty"
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+)))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\tocbas
+ic.sty"
+Package: tocbasic 2020/01/24 v3.29 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box45
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Class scrartcl Info: You've used standard option `onecolumn'.
+(scrartcl)           This is correct!
+(scrartcl)           Internally I'm using `twocolumn=false'.
+(scrartcl)           If you'd like to set the option with \KOMAoptions,
+(scrartcl)           you'd have to use `twocolumn=false' there
+(scrartcl)           instead of `onecolumn', too.
+Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2212.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrsiz
+e12pt.clo"
+File: scrsize12pt.clo 2020/01/24 v3.29 KOMA-Script font size class option (12pt
+)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\typear
+ea.sty"
+Package: typearea 2020/01/24 v3.29 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count167
+Package typearea Info: You've used standard option `onecolumn'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `twocolumn=false'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `twocolumn=false' there
+(typearea)             instead of `onecolumn', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 9
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 398.33862pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = 27.31467pt
+(typearea)              \oddsidemargin  = 27.31467pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 577.5pt
+(typearea)              \topmargin      = -18.25089pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1719.
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4723.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4723.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4731.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4741.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4741.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4751.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4751.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4761.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4761.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4771.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4771.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box46
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6002.
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count174
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6014.
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count175
+Class scrartcl Info: Redefining `\numberline' on input line 6178.
+\bibindent=\dimen134
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.sty"
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+"
+Package: expl3 2020-04-06 L3 programming layer (loader) 
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count176
+\l__pdf_internal_box=\box47
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
+xparse.sty"
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count177
+\g__xparse_grabber_int=\count178
+\l__xparse_m_args_int=\count179
+\l__xparse_v_nesting_int=\count180
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.
+tex"
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/03/22 3.42 The Babel package
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-portuges\por
+tuges.ldf"
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count181
+\U@D=\dimen135
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count182
+)
+Package babel Info: \l@brazil = using hyphenrules for portuguese
+(babel)             (\language1) on input line 113.
+Package babel Info: Making " an active character on input line 145.
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtyp
+e.sty"
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks16
+\MT@count=\count183
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen136
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count184
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtyp
+e-pdftex.def"
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip63
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtyp
+e.cfg"
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen137
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen138
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count185
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count186
+\leftroot@=\count187
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count188
+\DOTSCASE@=\count189
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box48
+\strutbox@=\box49
+\big@size=\dimen139
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count190
+\c@MaxMatrixCols=\count191
+\dotsspace@=\muskip16
+\c@parentequation=\count192
+\dspbrk@lvl=\count193
+\tag@help=\toks18
+\row@=\count194
+\column@=\count195
+\maxfields@=\count196
+\andhelp@=\toks19
+\eqnshift@=\dimen140
+\alignsep@=\dimen141
+\tagshift@=\dimen142
+\tagwidth@=\dimen143
+\totwidth@=\dimen144
+\lineht@=\dimen145
+\@envbody=\toks20
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip67
+\thm@postskip=\skip68
+\thm@headsep=\skip69
+\dth@everypar=\toks27
+) ("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xpatch\xpatch.st
+y"
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count197
+))
+Class scrartcl Info: amsthm's \deferred@thm@head patched.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\svgnam.def"
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@tempdima=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+Package caption Info: KOMA-Script document class detected.
+)
+Package caption Info: KOMA-Script document class.
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf.sty"
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
+err.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
+s.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
+sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
+eys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count266
+\sf@farskip=\skip70
+\sf@captopadj=\dimen155
+\sf@capskip=\skip71
+\sf@nearskip=\skip72
+\c@subfigure=\count267
+\c@subfigure@save=\count268
+\c@lofdepth=\count269
+\c@subtable=\count270
+\c@subtable@save=\count271
+\c@lotdepth=\count272
+\sf@top=\skip73
+\sf@bottom=\skip74
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs.
+sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count273
+\@cmidlb=\count274
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count275
+\@lastruleclass=\count276
+\@thisrulewidth=\dimen168
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) ("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks28
+\inpenc@posthook=\toks29
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen169
+\Gm@wd@mp=\dimen170
+\Gm@odd@mp=\dimen171
+\Gm@even@mp=\dimen172
+\Gm@layoutwidth=\dimen173
+\Gm@layoutheight=\dimen174
+\Gm@layouthoffset=\dimen175
+\Gm@layoutvoffset=\dimen176
+\Gm@dimlist=\toks30
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetime.
+sty"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcount.
+sty"
+Package: fmtcount 2020/01/30 v3.07
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex"
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefix.
+sty"
+Package: fcprefix 2012/09/28
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumpars
+er.sty"
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count281
+))
+\c@padzeroesN=\count282
+\fc@tmpcatcode=\count283
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-portug
+es.def"
+File: fc-portuges.def 2017/12/26
+)
+\@DT@modctr=\count284
+\@ordinalctr=\count285
+\@orgargctr=\count286
+\@strctr=\count287
+\@tmpstrctr=\count288
+\@DT@loopN=\count289
+\@DT@X=\count290
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/datetime\datetime-
+defaults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count291
+\@month=\count292
+\@year=\count293
+\c@HOUR=\count294
+\c@HOURXII=\count295
+\c@MINUTE=\count296
+\c@TOHOUR=\count297
+\c@TOMINUTE=\count298
+\c@SECOND=\count299
+\currenthour=\count300
+\currentminute=\count301
+\currentsecond=\count302
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count303
+\dayofyear=\count304
+\dayofweek=\count305
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks33
+\dt@b=\toks34
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.
+sty"
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ ("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count306
+\calc@Bcount=\count307
+\calc@Adimen=\dimen177
+\calc@Bdimen=\dimen178
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count308
+\calc@Cskip=\skip77
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.st
+y"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegsh
+i.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+))
+\AM@pagewidth=\dimen179
+\AM@pageheight=\dimen180
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.
+def"
+File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box50
+\AM@global@opts=\toks35
+\AM@pagecnt=\count309
+\AM@toc@title=\toks36
+\c@AM@survey=\count310
+\AM@templatesizebox=\box51
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.st
+y"
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+
+Class scrartcl Warning: Incompatible package `sectsty' loaded!
+(scrartcl)              Package `sectsty' up to version 2.0.2 is incompatible
+(scrartcl)              with KOMA-Script from version 2.8e released in 2001.
+(scrartcl)              You should avoid that package and configure the
+(scrartcl)              section titles of your document using the KOMA-Script
+(scrartcl)              user interface, e.g., \chapterlinesformat,
+(scrartcl)              \RedeclareSectionCommand etc. or you should ask
+(scrartcl)              the `sectsty' maintainer for a more compatible release.
+
+(scrartcl)              Ignoring this warning could result in several error
+(scrartcl)              messages and formatting issues after loading package
+(scrartcl)              `sectsty' on input line 40.
+
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.
+sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.
+sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 55.
+
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip78
+\f@nch@O@elh=\skip79
+\f@nch@O@erh=\skip80
+\f@nch@O@olh=\skip81
+\f@nch@O@orh=\skip82
+\f@nch@O@elf=\skip83
+\f@nch@O@erf=\skip84
+\f@nch@O@olf=\skip85
+\f@nch@O@orf=\skip86
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\lastpage.
+sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrine.
+sty"
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\minifp.st
+y"
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count311
+)
+\c@DefaultLines=\count312
+\c@DefaultDepth=\count313
+\DefaultFindent=\dimen181
+\DefaultNindent=\dimen182
+\DefaultSlope=\dimen183
+\DiscardVskip=\dimen184
+\L@lbox=\box52
+\L@tbox=\box53
+\c@L@lines=\count314
+\c@L@depth=\count315
+\L@Pindent=\dimen185
+\L@Findent=\dimen186
+\L@Nindent=\dimen187
+\L@lraise=\dimen188
+\L@first=\dimen189
+\L@next=\dimen190
+\L@slope=\dimen191
+\L@height=\dimen192
+\L@novskip=\dimen193
+\L@target@ht=\dimen194
+\L@target@dp=\dimen195
+\L@target@tht=\dimen196
+\LettrineWidth=\dimen197
+\LettrineHeight=\dimen198
+\LettrineDepth=\dimen199
+\Llist@everypar=\toks37
+
+Loading lettrine.cfg
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\lettrine.
+cfg"))
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titling\titling.st
+y"
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip87
+\thanksmargin=\skip88
+\droptitle=\skip89
+) (modelo_projeto.aux)
+\openout1 = `modelo_projeto.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
+LaTeX Font Info:    ... okay on input line 129.
+LaTeX Info: Redefining \microtypecontext on input line 129.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 129.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr.c
+fg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count316
+\scratchdimen=\dimen256
+\scratchbox=\box54
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen257
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks39
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24417pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78317pt, 71.13188pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=455.24417pt
+* \textheight=702.78317pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-41.0131pt
+* \headheight=18.125pt
+* \headsep=21.75pt
+* \topskip=12.0pt
+* \footskip=50.75pt
+* \marginparwidth=66.38977pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box55
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdflscape\pdflscap
+e.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 129.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+30.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `phv' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package lettrine.sty Info: Targeted height = 35.16666pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 35.74579pt ( \color {DarkGoldenrod
+} {\textsf {O}});
+(lettrine.sty)             reported on input line 144.
+<utfpr.jpeg, id=1, 97.36375pt x 35.13126pt>
+File: utfpr.jpeg Graphic file (type jpg)
+<use utfpr.jpeg>
+Package pdftex.def Info: utfpr.jpeg  used on input line 150.
+(pdftex.def)             Requested size: 97.3635pt x 35.13115pt.
+[1
+
+
+{C:/Users/diogo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./utfpr.jpe
+g>]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [2]
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 158.
+
+Package tocbasic Info: character protrusion at lof deactivated on input line 15
+8.
+(modelo_projeto.lof
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa.c
+fg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\diogo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb.c
+fg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+))
+\tf@lof=\write3
+\openout3 = `modelo_projeto.lof'.
+
+
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 161.
+
+Package tocbasic Info: character protrusion at lot deactivated on input line 16
+1.
+(modelo_projeto.lot)
+\tf@lot=\write4
+\openout4 = `modelo_projeto.lot'.
+
+ [3
+
+]
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 168.
+
+Package tocbasic Info: character protrusion at toc deactivated on input line 16
+8.
+(modelo_projeto.toc)
+\tf@toc=\write5
+\openout5 = `modelo_projeto.toc'.
+
+ [4
+
+] (tab1.tex) [5
+
+] [6] (tab2.tex)
+<figura1.png, id=35, 1371.1225pt x 770.88pt>
+File: figura1.png Graphic file (type png)
+<use figura1.png>
+Package pdftex.def Info: figura1.png  used on input line 240.
+(pdftex.def)             Requested size: 455.24417pt x 255.94386pt.
+<figura2.png, id=36, 1371.1225pt x 770.88pt>
+File: figura2.png Graphic file (type png)
+<use figura2.png>
+Package pdftex.def Info: figura2.png  used on input line 247.
+(pdftex.def)             Requested size: 455.24417pt x 255.94386pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figura3.png, id=37, 1371.1225pt x 770.88pt>
+File: figura3.png Graphic file (type png)
+<use figura3.png>
+Package pdftex.def Info: figura3.png  used on input line 258.
+(pdftex.def)             Requested size: 455.24417pt x 255.94386pt.
+[7 <./figura1.png>]
+<figura4.png, id=42, 1371.1225pt x 770.88pt>
+File: figura4.png Graphic file (type png)
+<use figura4.png>
+Package pdftex.def Info: figura4.png  used on input line 265.
+(pdftex.def)             Requested size: 455.24417pt x 255.94386pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figura5.png, id=43, 1371.1225pt x 770.88pt>
+File: figura5.png Graphic file (type png)
+<use figura5.png>
+Package pdftex.def Info: figura5.png  used on input line 272.
+(pdftex.def)             Requested size: 455.24417pt x 255.94386pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figura6.png, id=44, 1371.1225pt x 770.88pt>
+File: figura6.png Graphic file (type png)
+<use figura6.png>
+Package pdftex.def Info: figura6.png  used on input line 279.
+(pdftex.def)             Requested size: 455.24417pt x 255.94386pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figura7.png, id=45, 459.96844pt x 374.14781pt>
+File: figura7.png Graphic file (type png)
+<use figura7.png>
+Package pdftex.def Info: figura7.png  used on input line 295.
+(pdftex.def)             Requested size: 455.24417pt x 370.32753pt.
+[8 <./figura2.png> <./figura3.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./figura4.png> <./figura5.png>] [10 <./figura6.png>] [11 <./figura7.png>]
+[12] [13] (modelo_projeto.bbl
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 1.
+
+) 
+AED: lastpage setting LastPage
+[14
+
+] (modelo_projeto.aux) ) 
+Here is how much of TeX's memory you used:
+ 13626 strings out of 482813
+ 243000 string characters out of 2950421
+ 757409 words of memory out of 3000000
+ 28877 multiletter control sequences out of 15000+200000
+ 555738 words of font info for 123 fonts, out of 3000000 for 9000
+ 16 hyphenation exceptions out of 8191
+ 43i,12n,80p,10111b,520s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\diogo\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi657\tcti1000.pk> <C:\Users\diogo\AppData\Local\MiKTeX\2.9\fon
+ts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\diogo\AppData\Local\MiKT
+eX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk>{C:/Users/diogo/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/diogo/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/dio
+go/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<C:/Users/diogo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbxti10.pfb><C:/Users/diogo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/diogo/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/diogo/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/diogo/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/di
+ogo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb
+><C:/Users/diogo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><C:/Users/diogo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmtt10.pfb><C:/Users/diogo/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/diogo/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/diogo/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on modelo_projeto.pdf (14 pages, 561721 bytes).
+PDF statistics:
+ 127 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 30249 words of extra memory for PDF output out of 35830 (max. 10000000)
+
