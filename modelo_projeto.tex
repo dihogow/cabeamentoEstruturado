@@ -94,7 +94,7 @@
 										}
 
 \pretitle{\vspace{-30pt} \begin{flushleft} \HorRule 
-				\fontsize{50}{50} \usefont{OT1}{phv}{b}{n} \color{DarkRed} \selectfont 
+				\fontsize{40}{40} \usefont{OT1}{phv}{b}{n} \color{DarkRed} \selectfont 
 				}
 
 %% ====================================
@@ -113,7 +113,10 @@
 
 \preauthor{\begin{flushleft}
 					\large \lineskip 0.5em \usefont{OT1}{phv}{b}{sl} \color{DarkRed}}
-\author{André Luis Finatto, Diogo Witt, Jedielson de Souza, Paulo Cesar Cardoso de Campos}  	% Author name goes here
+\author{André Luis Finatto
+	\\ Diogo Witt,
+	\\ Jedielson de Souza,
+	\\ Paulo Cesar Cardoso de Campos \vspace{1cm}}  	% Author name goes here
 
 
 \postauthor{\footnotesize \usefont{OT1}{phv}{m}{sl} \color{Black} 
@@ -187,6 +190,7 @@ Após a execução do projeto, a infraestrutura de redes e dados estará mais se
 \subsection{Organizações Envolvidas}
 %Coloque o nome de todas as organizações envolvidas. Se for um projeto real, identifique quais as responsabilidades de cada uma das organizações. É comum que em um projeto de redes (cabeamento), temos várias organizações, sendo que cada uma delas com uma determinada responsabilidade.
 %Sugestão: crie uma tabela contento a relação delas.
+
 \input{tab1}
 
 \section{Estado atual}
@@ -231,55 +235,221 @@ Outro fator que pode refletir no aumento de usuários, são as contratações de
 
 \section{Estrutura predial existente}
 
+A estrutura predial existente está demonstrada pelas plantas das páginas 7 e 8.
+
+\
+\textbf{A T E N Ç Ã O - A C H T U N G !}
+\\
+Daqui está faltando uma pequena explicação para "encher linguiça"... Digam aqui, literalmente, como está a estrutura predial existente. Época de construção, como está a conservação, de que alvenaria é feita, se é quebrável, se é fácil trabalhar com essa estrutura... 
+
+\
+
+Usem vertical space  para espaçar os parágrafos.
+
+\
+
+Enfim, explicar até o fim dessa página, textualmente, um pouco das duas plantas - em que software foi desenhado, as medidas maiores delas, etc.
 %Explique aqui a planta física dos prédios
 %Pode ser anexada, em escala ou não.
 
 %Deve conter uma descrição geral, indicando a possível distância entre os pontos de rede e restrições de instalação.
+
+
+%==============================A3 INICIO===========================
+\clearpage 
+\thispagestyle{plain}
+\KOMAoptions{paper=a3, paper=landscape, DIV=20}
+\recalctypearea
+\begin{figure}
+	\noindent\makebox[\textwidth][c]{
+		\includegraphics[width=\textwidth]{figura1}
+	}
+	\caption[Planta Baixa Térreo]{Planta Baixa Térreo}
+	\label{figura1}
+\end{figure}
+
+%REVERTER
+
+\clearpage
+\KOMAoptions{paper=a4, paper=portrait, DIV=15}
+\recalctypearea
+%==============================A3 FIM=========================== 
+
+
+\iffalse
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{figura1.png}
 	\caption[Planta Baixa Térreo]{Planta Baixa Térreo}
 	\label{fig:figura1}
 \end{figure}
+\fi
 
-\begin{figure}[h!]
-	\centering
-	\includegraphics[width=\textwidth]{figura2.png}
+%==============================A3 INICIO===========================
+\clearpage 
+\thispagestyle{plain}
+\KOMAoptions{paper=a3, paper=landscape, DIV=20}
+\recalctypearea
+\begin{figure}
+	\noindent\makebox[\textwidth][c]{
+		\includegraphics[width=\textwidth]{figura2}
+	}
 	\caption[Planta baixa 1º andar IAPAR]{Planta baixa 1º andar IAPAR}
-	\label{fig:figura2}
+	\label{figura2}
 \end{figure}
+
+%REVERTER
+
+\clearpage
+\KOMAoptions{paper=a4, paper=portrait, DIV=15}
+\recalctypearea
+%==============================A3 FIM=========================== 
+
+
+%\begin{figure}[h!]
+%	\centering
+%	\includegraphics[width=\textwidth]{figura2.png}
+%	\caption[Planta baixa 1º andar IAPAR]{Planta baixa 1º andar IAPAR}
+%	\label{fig:figura2}
+%\end{figure}
 
 \section{Planta Lógica - Elementos estruturados}
 
 \subsection{Estado atual}
 %Deve ter a planta atual, se for o caso
+
+A estrutura predial existente está demonstrada pelas plantas das páginas 7 e 8.
+
+\
+\textbf{A T E N Ç Ã O - A C H T U N G !}
+\\
+Daqui está faltando uma pequena explicação para "encher linguiça"... Digam aqui, literalmente, como se dão as 4 figuras seguintes. Façam 1 parágrafo para cada, explicando que software foi usado, e algumas coisas técnicas: Exemplo: vemos na figura 4 que do switch, saem os cabos para elevações e canaletas, etc, etc.
+
+
+%==============================A3 INICIO===========================
+\clearpage 
+\thispagestyle{plain}
+\KOMAoptions{paper=a3, paper=landscape, DIV=20}
+\recalctypearea
+\begin{figure}
+	\noindent\makebox[\textwidth][c]{
+		\includegraphics[width=\textwidth]{figura3}
+	}
+		\caption[Estado Atual - Posições das Áreas de Trabalho - Térreo]{Estado Atual - Posições das Áreas de Trabalho - Térreo}
+	\label{figura3}
+\end{figure}
+
+%REVERTER
+
+\clearpage
+\KOMAoptions{paper=a4, paper=portrait, DIV=15}
+\recalctypearea
+%==============================A3 FIM===========================
+
+
+\iffalse
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{figura3.png}
 	\caption[Estado Atual - Posições das Áreas de Trabalho - Térreo]{Estado Atual - Posições das Áreas de Trabalho - Térreo}
 	\label{fig:figura3}
 \end{figure}
+\fi
 
+
+
+%==============================A3 INICIO===========================
+\clearpage 
+\thispagestyle{plain}
+\KOMAoptions{paper=a3, paper=landscape, DIV=20}
+\recalctypearea
+\begin{figure}
+	\noindent\makebox[\textwidth][c]{
+		\includegraphics[width=\textwidth]{figura4}
+	}
+\caption[Estado Atual - Distribuição Cabeamento Horizontal/Backbone - Térreo]{Estado Atual - Distribuição Cabeamento Horizontal/Backbone - Térreo}
+	\label{figura4}
+\end{figure}
+
+%REVERTER
+
+\clearpage
+\KOMAoptions{paper=a4, paper=portrait, DIV=15}
+\recalctypearea
+%==============================A3 FIM===========================
+
+\iffalse
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{figura4.png}
 	\caption[Estado Atual - Distribuição Cabeamento Horizontal/Backbone - Térreo]{Estado Atual - Distribuição Cabeamento Horizontal/Backbone - Térreo}
 	\label{fig:figura4}
 \end{figure}
+\fi
 
+
+%==============================A3 INICIO===========================
+\clearpage 
+\thispagestyle{plain}
+\KOMAoptions{paper=a3, paper=landscape, DIV=20}
+\recalctypearea
+\begin{figure}
+	\noindent\makebox[\textwidth][c]{
+		\includegraphics[width=\textwidth]{figura5}
+	}
+\caption[Trabalho - Térreo]{Estado Atual - Posições das Áreas de Trabalho - Térreo}
+	\label{figura5}
+\end{figure}
+
+%REVERTER
+
+\clearpage
+\KOMAoptions{paper=a4, paper=portrait, DIV=15}
+\recalctypearea
+%==============================A3 FIM===========================
+
+
+
+
+
+\iffalse
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{figura5.png}
 	\caption[Trabalho - Térreo]{Estado Atual - Posições das Áreas de Trabalho - Térreo}
 	\label{fig:figura5}
 \end{figure}
+\fi
 
+%==============================A3 INICIO===========================
+\clearpage 
+\thispagestyle{plain}
+\KOMAoptions{paper=a3, paper=landscape, DIV=20}
+\recalctypearea
+\begin{figure}
+	\noindent\makebox[\textwidth][c]{
+		\includegraphics[width=\textwidth]{figura6}
+	}
+	\caption[Estado Atual - Distribuição Cabeamento Horizontal/Backbone – 1º andar]{Estado Atual - Distribuição Cabeamento Horizontal/Backbone – 1º andar}
+		\label{figura6}
+\end{figure}
+
+%REVERTER
+
+\clearpage
+\KOMAoptions{paper=a4, paper=portrait, DIV=15}
+\recalctypearea
+%==============================A3 FIM===========================
+
+\iffalse
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{figura6.png}
 	\caption[Estado Atual - Distribuição Cabeamento Horizontal/Backbone – 1º andar]{Estado Atual - Distribuição Cabeamento Horizontal/Backbone – 1º andar}
 	\label{fig:figura6}
 \end{figure}
+\fi
+
 
 \subsection{Topologia}
 %Proposta futura, proposta após implantação.
@@ -289,11 +459,18 @@ Outro fator que pode refletir no aumento de usuários, são as contratações de
 %Todos os elementos das figuras devem ser explicados. 
 %Crie esboço da configuração dos racks e brackets. Explique cada um dos componentes. Você pode criar uma tabela contendo figuras dentro, ou criar uma tabela e incluí-la como imagem. Por exemplo, verifique a tabela \ref{tab1}.
 
+
+
+
+
+
+
+
 %\input{tab1}
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{figura7.png}
-	\caption[Diagrama da Topologia da Rede]{Diagrama da Topologia da Rede}
+	\caption[Diagrama da Topologia da Rede]{Diagrama da Topologia da Rede - ALTERAR ESTA TOPOLOGIA CF. DITO}
 	\label{fig:figura7}
 \end{figure}
 
@@ -339,7 +516,7 @@ No processo serão realizados os seguintes testes:
 \item ACR e Power Sum ACR - Teste que realiza faz a subtração entre os resultados de atenuação e o teste NEXT, em um par (ACR) ou nos outros três pares do cabo (Sum ACR).
 \end{itemize}
 \par Os testes serão realizados a fim de alcançar a certificação Cat5E.
-Caso algum teste não obtenha os resultados esperados, será identificado o cabo ou cabos com problema para que sejam efetuadas as correções necessárias para o alcançe da certificação.
+Caso algum teste não obtenha os resultados esperados, será identificado o cabo ou cabos com problema para que sejam efetuadas as correções necessárias para o alcance da certificação.
 Após o fim do processo, será entregue um relatório ao IAP-PR contendo todos os resultados obtidos nos testes acima mencionados.
 
 \section{Plano de manutenção}
@@ -376,7 +553,11 @@ O objetivo do projeto de cabeamento estruturado é mitigar todas as etapas e dim
 \section{Recomendações}
 %Observações e recomendações para o cliente.
 \clearpage
-\section{Referências bibliográficas}
+\section{Referências} %CONFORME ABNT, SÓ SE ESCREVE 'REFERÊNCIAS'
+
+Estão faltando os apontamentos de referências. Geralmente insere-se a referência no arquivo \textbf{referencias.bib} e aqui, somente, faz a citação com barra invertida e cite com o comando \verb\'cite'\ e entre as chaves a variável da referência apontada.
+
+
 %Utilize o mendley, o jabref ou diretamente o bibtex para gerenciar suas referências biliográficas. As referências são criadas automaticamente de acordo com o uso no texto.
 
 %Exemplo: Redes de computadores, segundo \cite{t2013} é considerada..... Já \cite{kurose2010} apresenta uma versão...
@@ -391,7 +572,7 @@ O objetivo do projeto de cabeamento estruturado é mitigar todas as etapas e dim
 %% ***********************************************************************
 %% === remover daqui =====================================================
 %% ***********************************************************************
-=================================================
+
 %%\section{Elementos textuais - Alguns exemplos}
 
 %%Esta seção apresenta exemplos de elementos textuais. \textbf{Remova-a da versão final do texto}.
